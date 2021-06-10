@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/app/main.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/app/main.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/example.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/example.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/example.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/lacze_do_gnuplota.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/BLOCK.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/BLOCK.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/BLOCK.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/DRONE.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/DRONE.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/DRONE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PRISM.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/PRISM.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/PRISM.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Macierz3x3.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/Macierz3x3.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/Macierz3x3.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PLANE.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/PLANE.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/PLANE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/CUBOID.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/CUBOID.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/CUBOID.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/STAGE.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/STAGE.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/STAGE.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Wektor3D.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/src/Wektor3D.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/src/Wektor3D.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/tests/main.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/tests/main.cpp"
+},
+{
+  "directory": "/home/leklo/ProgObiekt/zad5_1-Leklo/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/leklo/ProgObiekt/zad5_1-Leklo/build -I/home/leklo/ProgObiekt/zad5_1-Leklo/include -I/home/leklo/ProgObiekt/zad5_1-Leklo/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/dummy.cpp.o -c /home/leklo/ProgObiekt/zad5_1-Leklo/tests/dummy.cpp",
+  "file": "/home/leklo/ProgObiekt/zad5_1-Leklo/tests/dummy.cpp"
+}
+]
